@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="./banner.png" alt="GiovanniJS Banner"/>
 </p>
 
 <h1 align="center">Hi, I'm Giovanni 👋</h1>
