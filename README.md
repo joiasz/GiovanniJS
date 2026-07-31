@@ -1,165 +1,132 @@
-<p align="center">
-</p>
+<div align="center">
 
-<h1 align="center">Hi, I'm Giovanni 👋</h1>
+# Hi, I'm Giovanni 👋
+### Computer Science Student · IT Support · Aspiring Cloud & DevOps Engineer
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00E7B7&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;AI+%26+Automation+Explorer;Infrastructure+%26+Security;Building+Intelligent+Solutions;Always+Learning+New+Technologies" />
-</p>
+🌱 Learning by building, breaking, fixing and documenting.
+
+</div>
 
 ---
 
-# 🚀 About Me
+## 🌷 About Me
 
-I'm a technology enthusiast currently focused on infrastructure, automation, cybersecurity and artificial intelligence.
+I'm a Computer Science student currently working in **IT Support**.
 
-My professional background started in technical support, where I developed a strong foundation in troubleshooting, systems analysis and process optimization. Over time, I began building automation tools and exploring security and AI-oriented solutions.
+My professional experience has given me hands-on exposure to **Active Directory, PowerShell, Windows environments, troubleshooting, automation and technical support**.
 
-Currently, I'm deepening my knowledge in:
+I'm currently expanding my knowledge towards **Linux, networking, cloud computing, automation and DevOps**, with the goal of building a strong career in infrastructure and cloud technologies.
 
-- 🛡️ Cybersecurity
-- 🤖 Artificial Intelligence
-- ⚙️ Infrastructure Automation
-- 🐧 Linux
+I enjoy understanding how systems work behind the scenes and solving problems through a combination of logic, investigation and practical experimentation.
+
+---
+
+## 💻 IT Support Experience
+
+### Currently working with
+
+![Windows](https://img.shields.io/badge/Windows-C9D7E8?style=for-the-badge&logo=windows&logoColor=36454F)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-D8C8E8?style=for-the-badge&logo=microsoft&logoColor=36454F)
+![PowerShell](https://img.shields.io/badge/PowerShell-B8D8D8?style=for-the-badge&logo=powershell&logoColor=36454F)
+![Batch](https://img.shields.io/badge/Batch-D8D4C8?style=for-the-badge&logo=windows-terminal&logoColor=36454F)
+
+- Active Directory administration
+- Windows troubleshooting
+- PowerShell scripting
+- Batch scripting
+- User and permission management
+- Technical troubleshooting
+- Incident resolution
+- IT support and user assistance
+
+---
+
+## 🌱 Currently Learning
+
+![Linux](https://img.shields.io/badge/Linux-C9D7E8?style=for-the-badge&logo=linux&logoColor=36454F)
+![Git](https://img.shields.io/badge/Git-D8B4A0?style=for-the-badge&logo=git&logoColor=36454F)
+![Python](https://img.shields.io/badge/Python-B8D8D8?style=for-the-badge&logo=python&logoColor=36454F)
+![Networking](https://img.shields.io/badge/Networking-D8C8E8?style=for-the-badge&logo=cisco&logoColor=36454F)
+
+Currently focusing on:
+
+- 🐧 Linux & Bash
+- 🔀 Git & GitHub
 - 🐍 Python
-- 🌐 Networking
-- 🐳 Docker
-
-I enjoy creating practical solutions, improving workflows and continuously evolving through real-world projects.
-
----
-
-# 🎯 Current Goals
-
-- Transition into Cybersecurity and AI-focused roles
-- Build intelligent automation solutions
-- Improve infrastructure and security skills
-- Develop scalable and efficient tools
-- Expand knowledge in Linux, Python and Cloud environments
+- 🌐 Computer Networking
+- ⚙️ Automation
+- ☁️ Cloud Computing
+- 🚀 DevOps
 
 ---
 
-# 🛠️ Tech Stack
+## 🎯 Career Goals
 
-## Core Technologies
+My current goal is to transition from **IT Support into Infrastructure, Cloud and eventually DevOps**.
 
-<p align="center">
+### Roadmap
 
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+```text
+IT Support
+    ↓
+Infrastructure / Systems
+    ↓
+Cloud
+    ↓
+DevOps
+```
 
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Batch_Scripting-121011?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-</p>
-
----
-
-## Currently Learning
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Networking-00599C?style=for-the-badge"/>
-
-</p>
+I'm focusing on building practical skills rather than simply collecting certificates.
 
 ---
 
-# 📂 Featured Projects
+## 🛠️ Tech Stack
 
-## 🔐 Phishing Detector with Machine Learning
-Machine learning project focused on phishing detection and malicious URL analysis.
+**Professional Experience**
 
-### Technologies
-- Python
-- Machine Learning
-- Data Analysis
-- Cybersecurity
+![Windows](https://img.shields.io/badge/Windows-C9D7E8?style=for-the-badge&logo=windows&logoColor=36454F)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-D8C8E8?style=for-the-badge&logo=microsoft&logoColor=36454F)
+![PowerShell](https://img.shields.io/badge/PowerShell-B8D8D8?style=for-the-badge&logo=powershell&logoColor=36454F)
+![Batch](https://img.shields.io/badge/Batch-D8D4C8?style=for-the-badge&logo=windows-terminal&logoColor=36454F)
 
----
+**Development & Learning**
 
-## ⚙️ Support Automation Toolkit
-Automation toolkit developed to optimize support and operational tasks.
-
-### Features
-- Diagnostics
-- User management
-- Windows automation
-- Productivity improvements
-
-### Technologies
-- Batch
-- PowerShell
-- Windows
+![Linux](https://img.shields.io/badge/Linux-C9D7E8?style=for-the-badge&logo=linux&logoColor=36454F)
+![Git](https://img.shields.io/badge/Git-D8B4A0?style=for-the-badge&logo=git&logoColor=36454F)
+![Python](https://img.shields.io/badge/Python-B8D8D8?style=for-the-badge&logo=python&logoColor=36454F)
+![Networking](https://img.shields.io/badge/Networking-D8C8E8?style=for-the-badge&logo=cisco&logoColor=36454F)
 
 ---
 
-# 📈 GitHub Analytics
+## 📚 Learning Journey
 
-<p align="center">
+I'm documenting my progression from IT Support to Cloud & DevOps through university studies, hands-on projects, labs and technical documentation.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joiasz&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joiasz&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+**Learn → Build → Break → Fix → Document → Repeat.**
 
 ---
 
-# 🔥 Contribution Activity
+## 🌷 Featured Projects
 
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=joiasz&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
+| Project | Description | Status |
+|---|---|---|
+| 🐧 Linux Lab | Hands-on Linux learning environment | 🟡 Starting |
+| 🐍 Python Automation | Automation projects using Python | ⚪ Coming soon |
+| 🐳 Docker Lab | Containerization and deployment experiments | ⚪ Coming soon |
+| ☁️ Cloud Lab | Cloud infrastructure and deployment projects | ⚪ Coming soon |
+| ⚙️ CI/CD Lab | Automated build and deployment pipelines | ⚪ Coming soon |
 
 ---
 
-# 🌐 Connect With Me
+## 🎓 Education
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/giovanni-joia/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/joiasz">
-  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
+**Bachelor's Degree in Computer Science**
+*Currently studying*
 
 ---
 
-# 🧠 Philosophy
+<div align="center">
 
-<p align="center">
+✿ *Always learning, always building* ✿
 
-### Learning deeply. Building consistently. Evolving technically.
-
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joiasz&style=for-the-badge&color=0e75b6"/>
-</p>
+</div>
